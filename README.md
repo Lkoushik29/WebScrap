@@ -27,3 +27,6 @@ Create a new branch for your feature or bug fix.
 Make changes and commit them with descriptive messages.
 Push your changes to your fork.
 Submit a pull request to the main repository.
+
+This is how my end results look like
+![image](https://github.com/Lkoushik29/WebScrap/assets/91585444/9be489fd-3d4b-43b5-af8b-779ee3580375)
